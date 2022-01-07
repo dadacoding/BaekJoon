@@ -7,6 +7,9 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
+// 첫 줄에 테스트케이스 개수가 주어진다.
+// 각 테스트케이스마다 더한 값을 한 줄에 하나씩 순서대로 출력한다.
+
 public class N15552 {
 	public static void main(String[] args) throws IOException{
 
