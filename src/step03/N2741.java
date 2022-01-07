@@ -5,10 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
+// 자연수 N이 주어졌을 때, 1부터 N까지 한 줄에 하나씩 출력
+
 public class N2741 {
 	public static void main(String[] args) throws IOException {
-		//N찍기 
-		
+
 		// 방법1. 스캐너 사용
 		
 //		Scanner scan = new Scanner(System.in);
