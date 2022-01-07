@@ -2,6 +2,9 @@ package step05;
 
 import java.util.Scanner;
 
+// 9개의 서로 다른 자연수가 주어질 때,
+// 이들 중 최댓값 찾고, 그 최댓값이 몇 번째 수인지 구하기
+
 public class N2562 {
 	public static void main(String[] args) {
 		
