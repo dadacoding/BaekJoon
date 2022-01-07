@@ -3,6 +3,7 @@ package step05;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// N개의 정수가 주어진다. 이 때의 최솟값, 최대값 구하기
 public class N10818 {
 	public static void main(String[] args) {
 		
